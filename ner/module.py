@@ -5,7 +5,7 @@ import os
 import numpy as np
 
 import sys
-sys.path.append('/home/shiyan/project/albert_crf/')
+sys.path.append('/home/sy/project/albert_crf/')
 
 from utils.log import logger
 

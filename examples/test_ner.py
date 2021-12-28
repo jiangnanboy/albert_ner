@@ -3,7 +3,7 @@ import argparse
 from pprint import pprint
 
 import sys
-sys.path.append('/home/shiyan/project/albert_crf/')
+sys.path.append('/home/sy/project/albert_crf/')
 
 from ner.module import NER
 

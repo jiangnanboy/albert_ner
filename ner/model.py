@@ -4,7 +4,7 @@ from torchcrf import CRF
 from transformers import BertTokenizer, AlbertModel, AlbertConfig
 
 import sys
-sys.path.append('/home/shiyan/project/albert_crf/')
+sys.path.append('/home/sy/project/albert_crf/')
 
 from utils.log import logger
 
