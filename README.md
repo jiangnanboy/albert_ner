@@ -45,6 +45,7 @@ BIO形式标注（来自人民日报），见data/
 ner = NER(args)
 if train_bool(args.train):
     ner.train()
+    # dev_score: 0.9886729163992931    acc_loss: 6.1900248776582885    best_val_loss: 12.737978113349527  
 else:
     ner.load()
     # ner.test(args.test_path)
