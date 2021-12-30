@@ -12,6 +12,8 @@
 - hidden_state=768经一层前馈网络进行分类
 - 将前馈网络的分类结果输入crf
 
+![image](https://raw.githubusercontent.com/jiangnanboy/albert_crf/master/image/albert-crf-ner.png)
+
  ## 数据说明
 
 BIO形式标注（来自人民日报），见data/
