@@ -1,4 +1,4 @@
-# albert-crf    中文实体识别
+# albert-crf for NER(Named Entity Recognition)，中文实体识别。
 
 ## 概述
 
